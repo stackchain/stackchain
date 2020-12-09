@@ -1,4 +1,4 @@
-### Hey there, I'm Juliano but my friends call me stacky 👋
+### Hey there, I'm Juliano but you can call me stacky 👋
 
 I'm a **Software Engineer** focused on DLT technologies.
 
