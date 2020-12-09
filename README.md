@@ -8,7 +8,7 @@ I'm a **Software Engineer** focused on DLT technologies.
 - 💭 Working companies ─ [Emurgo](https://emurgo.io) & [ONE %](https://onepercent.io)
 - 😄 Pronouns ─ I don't care, just be gentil
 - 🌱 I’m currently learning ─ Go & Haskell
-- 🤔 I’m looking for help with ─ [Envelope functions](https://en.wikipedia.org/wiki/Envelope_(mathematics)
+- 🤔 I’m looking for help with ─ [Envelope functions](https://en.wikipedia.org/wiki/Envelope_(mathematics))
 - ⚡ Fun fact ─ I can watch Matrix & Kung Fun Panda in a loop for eva.
 
 > The quieter you become the more you are able to hear
