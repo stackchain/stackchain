@@ -7,7 +7,7 @@ I'm a **Software Engineer** focused on DLT technologies.
 - 💙 Personal goal ─ Buy an electric catamaram and sail the world with my family
 - 💭 Working companies ─ [Emurgo](https://emurgo.io) & [ONE %](https://onepercent.io)
 - 😄 Pronouns ─ I don't care, just be gentil
-- 🌱 I’m currently learning ─ Go & Haskell
+- 🌱 I’m currently learning ─ Rust & Haskell
 - 🤔 I’m looking for help with ─ [Envelope functions](https://en.wikipedia.org/wiki/Envelope_(mathematics))
 - ⚡ Fun fact ─ I can watch Matrix & Kung Fun Panda in a loop for eva.
 
